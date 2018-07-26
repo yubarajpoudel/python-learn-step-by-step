@@ -1,5 +1,7 @@
 ﻿
-**Variable and data types **
+**Variable and data types**
+===========================
+
 Python basically has five data types
 
  1. Numbers
@@ -52,7 +54,7 @@ Dictionaries in Python are lists of Key:Value pairs. This is a very powerful dat
     print (student['name']) # print the value.
     student['roll'] = 34 # Add a new key 'roll' with the associated value
     print (student.keys()) # print out a list of keys in the dictionary
-    print ('roll' in room_num) # test to see if 'roll' is in the dictionary.  This returns true.
+    print ('roll' in student) # test to see if 'roll' is in the dictionary.  This returns true.
 
 
 **Operators in python**
