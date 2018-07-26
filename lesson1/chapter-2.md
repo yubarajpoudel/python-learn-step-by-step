@@ -98,6 +98,8 @@ Python language supports the following types of operators.
 |<=	|If the value of left operand is less than or equal to the value of right operand, then condition becomes true.|	(a <= b) is true.|
 
 **Python Assignment Operators**
+================================
+
 | Operators | Description | Examples |
 |:---------:|:------------:|:----------:|
 |   =  |  Assigns values from right side operands to left side operand |	c = a + b assigns value of a + b into c |
