@@ -1,0 +1,82 @@
+[
+	{ 
+	 "q":"The International team of scientists has recently cracked the genetic code of which cultivated crop for the first time?",
+	 "a1":"Wheat",
+	 "a2":"Rice",
+	 "a3":"Maize",
+	 "a4":"Pulses",
+	 "ca":"a1"
+	},
+	{ 
+	 "q":"At the 2018 World Hindi Conference (WHC), the Panini Language Laboratory has been gifted by Government of India (GoI) to which country?",
+	 "a1":"Maldives",
+	 "a2":"South Africe",
+	 "a3":"Australia",
+	 "a4":"Mauritius",
+	 "ca":"a4"
+	},
+	{ 
+	 "q":"Which Indian sportsperson has clinched India’s first Gold in the 18th Jakarta Asian Games 2018?",
+	 "a1":"Mary Kom",
+	 "a2":"Bajrang Punia",
+	 "a3":"Apurvi Chandela",
+	 "a4":"Neeraj Chopra",
+	 "ca":"a2"
+	},
+	{ 
+	 "q":"Kofi Annan was from which country?",
+	 "a1":"Ghana",
+	 "a2":"Morocco",
+	 "a3":"Nigeria",
+	 "a4":"South Africa",
+	 "ca":"a1"
+	},
+	{ 
+	 "q":"What is the scientific name of the deadly agricultural pest “Fall Armyworm”, which has been spotted in Telangana?",
+	 "a1":"Chortoicetes terminifera",
+	 "a2":"Heteronychus arator",
+	 "a3":"Spodoptera frugiperda",
+	 "a4":"Mythimna convecta",
+	 "ca":"a3"
+	},
+	{ 
+	 "q":"FSSAI has constituted which expert committee to look into draft of Food Safety and Standards (Labelling and Display) Regulations 2018?",
+	 "a1":"P K Agarwal committee",
+	 "a2":"B Sesikeran committee",
+	 "a3":"Hemalatha committee",
+	 "a4":"Nikhil Tandon committee",
+	 "ca":"a2"
+	},
+	{ 
+	 "q":"On which date, the 2018 World Photography Day (WPD) was observed recently?",
+	 "a1":"August 17",
+	 "a2":"August 19",
+	 "a3":"August 18",
+	 "a4":"August 20",
+	 "ca":"a2"
+	},
+	{ 
+	 "q":"Which of the following is the 2018 World Humanitarian Day (WHD) theme?",
+	 "a1":"#ShareHumanity",
+	 "a2":"#ImpossibleChoices",
+	 "a3":"#OneHumanity",
+	 "a4":"#NotATarget",
+	 "ca":"a4"
+	},
+	{ 
+	 "q":"The Union Government has proposed to set up which committee to suggest changes to the JEE (Advanced) examination?",
+	 "a1":"Kannan Moudgalya committee",
+	 "a2":"Abhay Karandikar committee",
+	 "a3":"Vineet Joshi committee",
+	 "a4":"Bhaskar Ramamurthy committee",
+	 "ca":"a4"
+	},
+	{ 
+	 "q":"The Amnesty International India has launched which campaign to create awareness among children to identify sexual abuse?",
+	 "a1":"Save Child, Save Future",
+	 "a2":"Our Safety, Our Rights",
+	 "a3":"Goals Set",
+	 "a4":"Safety in your hands",
+	 "ca":"a2"
+	}
+]
